@@ -1,6 +1,6 @@
-# Projeto Base Python
+# Allocate Stock
 
-Projeto base para iniciar qualquer projeto Python.
+Projeto em Python para alocar o estoque de acordo com as ordens vindas dos clientes que compraram no E-commerce.
 
 ## Instalar dependências
 
